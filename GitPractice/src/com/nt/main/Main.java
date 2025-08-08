@@ -10,7 +10,7 @@ public class Main {
 	   
 	   
 	   int addition = Arithmetic.sum(a, b);
-	   System.out.println(addition);
+	   System.out.println("sum of a and b is = "+addition);
 	 
 	}
 	
